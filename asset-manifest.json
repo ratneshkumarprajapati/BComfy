@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1bb0e97.css",
+    "main.js": "/static/js/main.cb53a2fc.js",
+    "static/media/ECONFY.jpg": "/static/media/ECONFY.38f1daa7be6b6f60fe99.jpg",
+    "index.html": "/index.html",
+    "main.b1bb0e97.css.map": "/static/css/main.b1bb0e97.css.map",
+    "main.cb53a2fc.js.map": "/static/js/main.cb53a2fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bb0e97.css",
+    "static/js/main.cb53a2fc.js"
+  ]
+}
